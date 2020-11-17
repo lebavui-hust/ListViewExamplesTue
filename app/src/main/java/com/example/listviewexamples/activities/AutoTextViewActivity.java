@@ -1,10 +1,12 @@
-package com.example.listviewexamples;
+package com.example.listviewexamples.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.widget.ArrayAdapter;
 import android.widget.AutoCompleteTextView;
+
+import com.example.listviewexamples.R;
 
 public class AutoTextViewActivity extends AppCompatActivity {
     String[] items = { "words", "starting", "with", "set", "Setback",

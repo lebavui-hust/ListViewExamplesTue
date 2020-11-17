@@ -1,4 +1,4 @@
-package com.example.listviewexamples;
+package com.example.listviewexamples.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -9,6 +9,8 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+
+import com.example.listviewexamples.R;
 
 import java.util.ArrayList;
 import java.util.List;

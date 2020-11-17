@@ -1,4 +1,4 @@
-package com.example.listviewexamples;
+package com.example.listviewexamples.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -8,6 +8,9 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+
+import com.example.listviewexamples.models.ImageItemModel;
+import com.example.listviewexamples.R;
 
 import java.util.ArrayList;
 import java.util.List;

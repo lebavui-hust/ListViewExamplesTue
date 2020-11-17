@@ -9,19 +9,21 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ListViewExamples">
-        <activity android:name=".GridImageActivity">
+        <activity android:name=".ChatListActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".HorizontalListActivity">
+        <activity android:name=".CustomListActivity">
         </activity>
-        <activity android:name=".AutoTextViewActivity"></activity>
-        <activity android:name=".GridViewActivity" />
-        <activity android:name=".SpinnerActivity" />
-        <activity android:name=".MainActivity" />
+        <activity android:name=".activities.GridImageActivity"></activity>
+        <activity android:name=".activities.HorizontalListActivity" />
+        <activity android:name=".activities.AutoTextViewActivity" />
+        <activity android:name=".activities.GridViewActivity" />
+        <activity android:name=".activities.SpinnerActivity" />
+        <activity android:name=".activities.MainActivity" />
     </application>
 
 </manifest>

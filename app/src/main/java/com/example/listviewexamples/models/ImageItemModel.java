@@ -1,4 +1,4 @@
-package com.example.listviewexamples;
+package com.example.listviewexamples.models;
 
 public class ImageItemModel {
     private String caption;

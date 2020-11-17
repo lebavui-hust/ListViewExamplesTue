@@ -1,4 +1,4 @@
-package com.example.listviewexamples;
+package com.example.listviewexamples.adapters;
 
 import android.app.Activity;
 import android.content.Context;
